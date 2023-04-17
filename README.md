@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋,  Faizal here...</h1> 
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com/?font=&color=%23F7008F&lines=Student+%2F+Developer+;%F0%9F%9A%80+Full-Stack+Developer;%F0%9F%96%A5+Active+OpenSource+Contributor"></h2>
-<h3 align="center">Full-stack developer and passionate learner passionate about exploring new technologies and delivering quality solutions. Sharing my projects and contributions on Github.</h3><br><br>
+<h3 align="center">Full-stack developer and learner passionate about exploring new technologies and delivering quality solutions. Sharing my projects and contributions on Github.</h3><br><br>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
