@@ -36,6 +36,4 @@
       <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizal108&theme=radical&column=-1&margin-w=15&margin-h=15" alt="Faizal" /></a>
   </p>
 
-<h4 align="center">My contribution graph</h4>
-<p align="center"> <img width="900em" src="https://github-readme-activity-graph.cyclic.app/graph?username=faizal108&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Faizal's Github Graph" /> </p> 
 
