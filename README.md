@@ -61,8 +61,8 @@
   <br>
     <p align='center'>
       <img src="https://github-widgetbox.vercel.app/api/profile?username=faizal108&data=followers,repositories,stars,commits&theme=radical"><br><br>
-<!--       <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizal108&theme=omni&ring=1EE2BF&fire=E25525&hide_border=true"><br><br>
-      <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizal108&theme=radical&column=5&margin-w=15&margin-h=15" alt="Faizal" /></a><br> -->
+<!--       <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizal108&theme=omni&ring=1EE2BF&fire=E25525&hide_border=true"><br><br> -->
+      <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizal108&theme=radical&column=5&margin-w=15&margin-h=15" alt="Faizal" /></a><br>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faizal108&hide=border&theme=tokyonight"><br><br>
     </p>
 
