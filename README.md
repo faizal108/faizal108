@@ -66,4 +66,5 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faizal108&hide=border&theme=tokyonight"><br><br>
     </p>
 
-
+<h2 align="center"><a href="https://stardev.io/developers/faizal108"><img alt="Check out faizal108's profile on stardev.io" src="https://stardev.io/developers/faizal108/badge/languages/global.svg" /></a>
+</h2>
